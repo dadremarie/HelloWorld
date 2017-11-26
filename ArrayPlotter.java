@@ -88,5 +88,8 @@ public class ArrayPlotter
   	/** main method that creates the grid plotter application. */
 	public static void main(String[] args)
    {
+		ArrayPlotter object = new ArrayPlotter();
+		
+		
 	}
 }
